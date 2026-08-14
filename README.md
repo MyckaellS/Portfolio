@@ -24,14 +24,6 @@ Olist is a Brazilian E-Commerce platform that connects wholesalers and individua
 [Live Dashboard](https://public.tableau.com/app/profile/myckaell.silva5351/viz/OlistSalesOverview/OlistSalesOverview)
 <br><br/>
 
-## Cafe Sales Cleanup
-
-Description of the project.
-
-**Tech Used**
-
-- Excel
-
 ---
 
 ## Tech and Skills
