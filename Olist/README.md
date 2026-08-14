@@ -10,7 +10,7 @@ Olist is a Brazilian E-Commerce platform that connects wholesalers and individua
 
 ### Insights:
   - Health and Beauty is currently the top performing category currently. Allocating resources to increase the volume of these products could drive strong short term returns. The Warehousing and Finance team should plan accordingly.
-  - The Gifts category is currently the second top category, however, it is forecasted to soon become the top selling category. The Product team should expand or reinforce our current selection to promote further growth.
+  - The Gifts category is currently the second top category, however, it is forecasted to soon become the top selling category by 2018 (next year). The Product team should expand or reinforce our current selection to promote further growth.
   - Most electronics are not expected to generate significant revenue in the future. Accessories account for the majority of revenue within this category. The Product and Finance team should consider discontinuing or changing sales plans.
   - Most transactions fall below the average value. The Marketing team can implement promotions such as buy-one-get-one (BOGO) offers. This can help drive average order value, encourage repeat purchases, and retain our current customers.
 
