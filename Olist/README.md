@@ -20,6 +20,9 @@ Olist is a Brazilian E-Commerce platform that connects wholesalers and individua
 
 <img width="1595" height="895" alt="Screenshot 2026-04-04 123154" src="https://github.com/user-attachments/assets/f4bc73a7-dc36-42ef-a709-c6119b973d2a" />
 
+This dashboard can be accessed on Tabluea Public
+<a href="https://public.tableau.com/app/profile/myckaell.silva5351/viz/OlistSalesOverview/OlistSalesOverview"> here. </a>
+
 
 ## Worksheets
 
