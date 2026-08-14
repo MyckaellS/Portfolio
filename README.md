@@ -30,52 +30,28 @@ Description of the project.
 
 **Tech Used**
 
-- React
-- Node.js
-- PostgreSQL
+- Excel
 
-GitHub:
-https://github.com/username/project
+---
 
-Live Demo:
-https://project-demo.com
-
-
-## Tech Stack
+## Tech and Skills
 
 ### Languages
-- JavaScript
-- TypeScript
+- SQL
 - Python
-- Java
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express
-- Spring Boot
-
-### Databases
-- PostgreSQL
-- MongoDB
-
-### Cloud
-- AWS
-- Docker
-- GitHub Actions
-
+### Software
+- Excel
+- PowerBI
+- Tableau
+- MSSQL
+- Google Big Query
+  
 
 ## Contact
 
 LinkedIn:
-https://linkedin.com/in/username
-
-GitHub:
-https://github.com/username
+[https://linkedin.com/in/myckaell-silva](https://www.linkedin.com/in/myckaell-silva/)
 
 Email:
-your@email.com
+silva.myckaell@outlook.com
