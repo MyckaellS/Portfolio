@@ -19,11 +19,9 @@ The Olist Revenue Analysis project aimed to identify three different types of in
 - Google Big Query
 - Tableau
 
-GitHub:
-https://github.com/username/project
+[GitHub](https://github.com/MyckaellS/Portfolio/blob/main/Olist/README.md)
 
-Live Demo:
-https://project-demo.com
+[Live Dashboard](https://public.tableau.com/app/profile/myckaell.silva5351/viz/OlistSalesOverview/OlistSalesOverview)
 <br><br/>
 
 ## Cafe Sales Cleanup
