@@ -12,7 +12,7 @@ I'm a Software Developer passionate about building web applications, automation 
 
 ## Olist Revenue Analysis
 
-The Olist Revenue Analysis project aimed to identify three different types of insights based on trends in the data. The primary focus was uncovering relationships between sales, product categories, sellers, and time. This experience was designed to push my limits in SQL and Tableau.
+Olist is a Brazilian E-Commerce platform that connects wholesalers and individual retailers to customers golabally. I derived insights that gave directions and clarity on how to allocate future resources to different departments.
 
 **Tech Used**
 
