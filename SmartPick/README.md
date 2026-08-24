@@ -1,3 +1,13 @@
+## Table of Contents
+
+- [Project Background](#project-background)
+- [Data Stucture & Initial Checks](#data-structure--initial-checks)
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+- [Recommendations](#recommendations)
+- [Assumptions & Caveats](#assumption--caveats)
+
+---
 
 # Project Background
 SmartPick Electronics is a global omni-channel retailer that sells a wide variety of household electronics via its website and store fronts.
