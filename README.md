@@ -2,11 +2,28 @@
 
 ## About Me
 
-I'm a Software Developer passionate about building web applications, automation tools, and cloud-based solutions.
+I'm a Data Analyst with a passion to tell stories based on data.
 
 ## Table of Contents
+
+- [SmartPick Analysis](#smartpick-analysis)
 - [Olist Revenue Analysis](#olist-revenue-analysis)
-- [Cafe Sales Cleanup](#cafe-sales-cleanup)
+
+---
+
+## SmartPick Analysis
+
+SmartPick is a global omni-channel retailer that sells a wide variety of home goods. I analyze product performance and overall sales trends to provide actionable insights and recommendations.
+
+**Tech Used**
+
+- Excel
+- Tableau
+
+[GitHub](https://github.com/MyckaellS/Portfolio/blob/main/SmartPick/README.md)
+
+[Live Dashboard](https://public.tableau.com/app/profile/myckaell.silva5351/viz/SmartPick/Dashboard1)
+<br><br/>
 
 ---
 
