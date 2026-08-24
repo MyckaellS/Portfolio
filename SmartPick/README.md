@@ -29,7 +29,7 @@ The companies main database structure as seen below consists of four tables: Sal
 
 After a significant rise in sales early 2020, the company's sales have continued to decline since. Order count and revenue decreased by 49% from 2019, while Average Order Value (AOV) had a a less significant decline rate of -4%. While the largest portion in the decline of sales can be attributed to COVID-19, we will explore additional contributing factors.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![SalesTrend](Photos/SalesTrend.png)
 
 
 
@@ -44,7 +44,7 @@ After a significant rise in sales early 2020, the company's sales have continued
 
 * **The United States peaked at 63% of total sales** across 8 different countries. The US is consistently contributing more than 40% of total sales year-round.
 
-[Visualization specific to category 1]
+![SalesComparison](Photos/SalesComparison.png)
 
 
 
@@ -58,7 +58,7 @@ After a significant rise in sales early 2020, the company's sales have continued
 
 * Categories such as Music/Movies, Games and Toys, and Audio account for a respectable +36% of total orders collectively, however, the total amount contributed to revenue is below expected with a combined total of 11%.
 
-[Visualization specific to category 2]
+![CategoryComparison](Photos/CategoryComparison.png)
 
 
 
