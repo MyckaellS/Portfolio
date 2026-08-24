@@ -20,8 +20,7 @@ The companies main database structure as seen below consists of four tables: Sal
 - **Customers:** Detailed information on customers that can be used for segmentation
 - **Stores:** Details about the stores' physical attributes
 
-[Entity Relationship Diagram here]
-
+![ERD](Photos/SmartPick_ERD.png)
 
 
 # Executive Summary
