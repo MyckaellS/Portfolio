@@ -5,7 +5,7 @@
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
 - [Recommendations](#recommendations)
-- [Assumptions & Caveats](#assumption--caveats)
+- [Assumptions & Caveats](#assumptions--caveats)
 
 ---
 
