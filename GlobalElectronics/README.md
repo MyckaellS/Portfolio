@@ -1,29 +1,24 @@
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+SmartPick Electronics is a global omni-channel retailer that sells a wide variety of household electronics via its website and store fronts.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Sales Trends:** Evalutaion of historical sales patterns across categories and countries, with a focus on Revenue, Order Volume, and Average Order Value (AOV).
+- **Product Performance:** Evaluation of product diversity and sales impact across time and regions with a focus on Revenue and Product Mix
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/app/profile/myckaell.silva5351/viz/SmartPick/Dashboard1).
 
 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The companies main database structure as seen below consists of four tables: Sales, Products, Categories, Subcategories, Customers, and Stores with a total row count of 67,448 records. A description of each table is as follows:
+- **Sales:** The main table that holds transactional data.
+- **Products:** A list of all products sold and their details
+- **Categories/Subcategories:** A list of classifications for products
+- **Customers:** Detailed information on customers that can be used for segmentation
+- **Stores:** Details about the stores' physical attributes
 
 [Entity Relationship Diagram here]
 
@@ -33,63 +28,39 @@ The companies main database structure as seen below consists of four tables: tab
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+After a significant rise in sales early 2020, the company's sales have continued to decline since. Order count and revenue decreased by 49% from 2019, while Average Order Value (AOV) had a a less significant decline rate of -4%. While the largest portion in the decline of sales can be attributed to COVID-19, we will explore additional contributing factors.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
 
 # Insights Deep Dive
-### Category 1:
+### Sales Trends
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* There are consistent seasonal peaks sales. The **peaks are between December and February** often accounting for 60% of the total year's revenue.
 
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* There are also consistent seasonal dips in sales. The **dips occur between April and June** and have contributed less than 2% of sales in past years.
 
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Order count highly influences total revenue** as AOV is fairly steady with an average of 2% fluctuation across the years. Order count is highly reflective of total revenue.
 
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **The United States peaked at 63% of total sales** across 8 different countries. The US is consistently contributing more than 40% of total sales year-round.
 
 [Visualization specific to category 1]
 
 
-### Category 2:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+### Product Performance:
 
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Computers and Home Appliances contribute over 50% of total revenue.** In further detail, the top products in revenue are dominated by the Computers category.
+  
+* **Games and Toys are the weakest products offered.** They contribute less than 2% of total revenue. Music/Movies and Audio follow suit contributing 6% of total sales each.
 
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Home Appliances and TV/Video have not shown in increase or decrease in order count despite bringing in 30% of total revenue combined. Order count did drop along with all other products in early 2020.
 
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Categories such as Music/Movies, Games and Toys, and Audio account for a respectable +36% of total orders collectively, however, the total amount contributed to revenue is below expected with a combined total of 11%.
 
 [Visualization specific to category 2]
 
-
-### Category 3:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 3]
-
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
 
 
 
@@ -97,15 +68,19 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* With Computers and Home Appliances accounting for over 50% of total revenue, diversifying the product portfolio is necessary to survive a volatile market. **Expanding products to compliment high performing categories can increase AOV and customer retention.**
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Since the primary factor for the large dip in sales in 2020 can be attributed to COVID-19, the company should take this opportunity to **compare customer segments pre and post pandemic to develop a recovery strategy utilizing the current structure and creating room for change.**
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Re-evaluate low performing categories (Music/Movies, Games and Toys, and Audio).** They create a fair amount of orders, but the revenue does not match up. The overhead costs might outweigh the benefits of continuing these products.
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* With the US contributing the majority of the sales, **distribution across other countries should be reassessed.** The UK and Germany have been the highest contributors after the US.
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* To adjust for the seasonal trend, **a loyalty program should be introduced and highly utilized during April** to promote more orders. The company can also capitalize the natural peaks and use **advertising during the holiday season to draw in more customers.**
+
+* Growth in revenue is highly attributed to order count as AOV is steady. We should **implement a way to track how customers are acquired to capitalize and reassess different marketing channels.** We can then work on how to increase total order count.
+
+
 
 
 
@@ -113,8 +88,4 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* Data stops at 2021, more relevant data may be available but not provided
