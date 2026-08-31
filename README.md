@@ -20,7 +20,7 @@ SmartPick is a global omni-channel retailer that sells a wide variety of home go
 - Excel
 - Tableau
 
-[GitHub](https://github.com/MyckaellS/Portfolio/blob/main/SmartPick/README.md)
+[Project Details](https://github.com/MyckaellS/Portfolio/blob/main/SmartPick/README.md)
 
 [Live Dashboard](https://public.tableau.com/app/profile/myckaell.silva5351/viz/SmartPick/Dashboard1)
 <br><br/>
@@ -36,7 +36,7 @@ Olist is a Brazilian E-Commerce platform that connects wholesalers and individua
 - Google Big Query
 - Tableau
 
-[GitHub](https://github.com/MyckaellS/Portfolio/blob/main/Olist/README.md)
+[Project Details](https://github.com/MyckaellS/Portfolio/blob/main/Olist/README.md)
 
 [Live Dashboard](https://public.tableau.com/app/profile/myckaell.silva5351/viz/OlistSalesOverview/OlistSalesOverview)
 <br><br/>
